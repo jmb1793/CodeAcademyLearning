@@ -1,3 +1,7 @@
+//Race Day Javascript 
+//Demonstrates Control Flow, and Variable Manipulation
+
+
 let raceNumber = Math.floor(Math.random() * 1000);
 let early = true;
 
